@@ -21,8 +21,12 @@ li {
   display:list-item;
 }
 
+.slab {
+  font-family: 'Zilla Slab', serif;
+}
+
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.8rem;
 }
 
 .link {
